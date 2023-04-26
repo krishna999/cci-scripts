@@ -22,8 +22,8 @@ Utilities Script
 ### Part 2: Customer records show that customer has not applied for a local energy efficiency plan. 
 ***
 **Agent**:  I’m looking your records and it looks like there are some additional tax credit promotion happening in your area where you can save $2K/ year in credits. 
-**Caller**: I was wondering about that. Can you tell me more?   
-**Agent**:  In your area, there is a special tax benefit for upgrading your heat pumps. I can email you information on that.
+**Caller**: Can I deduct a new heat pump on my taxes?  
+**Agent**:  Yes, in your area, there is a special tax benefit for upgrading your heat pumps. I can email you information on that.
 **Caller**: Sounds great! 
 **Agent**:  Can i confirm your email address? is it alicia@amazon.com?   
 **Caller**:Yes, that’s correct. 
